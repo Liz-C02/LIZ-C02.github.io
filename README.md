@@ -11,7 +11,10 @@ Overall 316 datasets were combined into this table found below. Some interesting
 - 42 datasets are provided by Local Authorities which makes them the second largest data provider after BGS with 48
 - high percentage of the datasets can be found on data.gov
 
-
+No|Data Owner|Dataset|Licence
+--|----------|-------|--------
+1|BGS - Geo6|3D geological models|Other Licence - Commercial
+2|BGS - Geo6|BGS Civils: all eight layers|Other Licence - Commercial
 
 ```markdown
 Syntax highlighted code block
