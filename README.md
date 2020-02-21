@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Housing and Planning Work
 
 You can use the [editor on GitHub](https://github.com/Liz-C02/LIZ-C02.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Dataset Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Overall 316 datasets were combined into this table found below. Some interesting facts that from the research were:
+- 48% of the data sources are published under an Open Licence 
+- 42 datasets are provided by Local Authorities which makes them the second largest data provider after BGS with 48
+- high percentage of the datasets can be found on data.gov
+
+
 
 ```markdown
 Syntax highlighted code block
