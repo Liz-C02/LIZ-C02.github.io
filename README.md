@@ -12,7 +12,7 @@ The table is below:
 
 No|Data Owner|Dataset|Licence
 --|----------|-------|--------
-1|BGS - Geo6|3D geological models|Other Licence - Commercial
+1|BGS - Geo6|3D geological models|Other Licence - Commercial 
 2|BGS - Geo6|BGS Civils: all eight layers|Other Licence - Commercial
 3|BGS - Geo6|BGS GeoSure insurance product|Other Licence - Commercial
 4|BGS - Geo6|BGS GeoSure: all six layers|Other Licence - Commercial
@@ -32,7 +32,7 @@ No|Data Owner|Dataset|Licence
 18|BGS - Geo6|BGS permeability|Other Licence - Commercial
 19|BGS - Geo6|BGS soil chemistry for environmental assessments|Other Licence - Commercial
 20|BGS - Geo6|BGS/EA aquifer designation (England/Wales)|Other Licence - Commercial
-21|BGS - Geo6|"Britpits (active| inactive and dormant sites)"|Other Licence - Commercial
+21|BGS - Geo6|"Britpits (active /inactive and dormant sites)"|Other Licence - Commercial
 22|BGS - Geo6|Britpits (full dataset)|Other Licence - Commercial
 23|BGS - Geo6|Coal Authority geophysical borehole logs|Other Licence - Commercial
 24|BGS - Geo6|GBASE UK|Other Licence - Commercial
@@ -59,7 +59,7 @@ No|Data Owner|Dataset|Licence
 45|BGS - Geo6|Technical reports|Other Licence - Open
 46|BGS - Geo6|UK and world mineral statistics data|Other Licence - Open
 47|BGS - Geo6|UKOGL exploration seismic data|Other Licence - Open
-48|"BGS| CA - Geo6"|Mineral Consultation|OGL
+48|"BGS / CA - Geo6"|Mineral Consultation|OGL
 49|Biological Record Centres - Other|Essex Wildlife Trust reserves|Other Licence - Commercial
 50|Biological Record Centres - Other|Historic Orchard Sites|Other Licence - Commercial
 51|Biological Record Centres - Other|Local Wildlife Sites|Other Licence - Commercial
@@ -207,18 +207,18 @@ No|Data Owner|Dataset|Licence
 193|Local Authority|Nearby railway schemes|Internal Local Authority Data
 194|Local Authority|Nearby Road schemes|Internal Local Authority Data
 195|Local Authority|Noise Abatement|Internal Local Authority Data
-196|Local Authority|"Notices| Orders| Directions under Planning Acts"|Internal Local Authority Data
+196|Local Authority|"Notices /Orders / Directions under Planning Acts"|Internal Local Authority Data
 197|Local Authority|Outstanding notices|Internal Local Authority Data
 198|Local Authority|Planning and Building decisions|Internal Local Authority Data
 199|Local Authority|Planning designations and proposals|Internal Local Authority Data
-200|Local Authority|"Roadways| footways andfootpaths"|Internal Local Authority Data
+200|Local Authority|"Roadways /footways and footpaths"|Internal Local Authority Data
 201|Local Authority|Simplified Planning|Internal Local Authority Data
 202|Local authority|Social Housing by Local Authority|Internal Local Authority Data
 203|Local Authority|Traffic Schemes|Internal Local Authority Data
 204|Local Authority|Tree Preservation Orders|Internal Local Authority Data
 205|Local Authority|Unemployment - Modelled by Local Authority|Internal Local Authority Data
 206|Local Authority|Urban Development Area|Internal Local Authority Data
-207|Local Authority|"Common Land| Town & Village Green"|OGL
+207|Local Authority|Common Land / Town & Village Green|OGL
 208|Local Authority|Safeguarded Wharfs|Other Licence
 209|Local Authority|Strategic Industrial Land|Other Licence
 210|Local Authority|Planning Inspectorate Local Plan by Local Authority|Other Licence - Open found on LA websites
@@ -328,5 +328,6 @@ No|Data Owner|Dataset|Licence
 314|Scotish Power - Other|Scotish Power Utility Data|Other Licence
 315|UNESCO - Other|World Heritage Sites|OGL
 316|VOA - Geo6|Non-domestic property data to support Business Rates valuations|Other Licence - Restricted
+
 
 If you would like to suggest other datasets to add, the CSV found here can be edited
