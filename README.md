@@ -330,4 +330,4 @@ No|Data Owner|Dataset|Licence
 316|VOA - Geo6|Non-domestic property data to support Business Rates valuations|Other Licence - Restricted
 
 
-If you would like to suggest other datasets to add, the CSV found here can be edited: https://github.com/Liz-C02/HLP/blob/master/HLP_Datasets.csv
+If you would like to suggest other datasets to add, the [CSV found here](https://github.com/Liz-C02/HLP/blob/master/HLP_Datasets.csv) can be edited. 
